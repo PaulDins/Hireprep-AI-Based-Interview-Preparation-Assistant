@@ -1,0 +1,5 @@
+Total Detected Fillers: 2
+Total Word Count: 75
+Overall Filler Percentage: 2.67%
+Average Score: 97.00
+Overall Communication Quality: Excellent
